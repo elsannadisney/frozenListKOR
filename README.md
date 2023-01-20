@@ -16,8 +16,11 @@ frozenListKR 필터는 대한민국 웹 사이트를 주로 포커싱합니다. 
 </b>
 
 # 사용방법
-<b>해당 링크를 복사해서 광고차단 프로그램에 필터를 추가하세요.</b>:
+<b>해당 링크를 복사해서 광고차단 프로그램에 필터를 추가하세요.</b><br/>
+<br/>
+**frozenListKR** (AdGuard,유니콘프로):
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
 ```
+<br/>
 
