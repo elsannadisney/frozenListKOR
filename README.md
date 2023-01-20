@@ -1,2 +1,2 @@
-# FrozenDNS
-Ad block DNS
+# frozenListKR
+Ad block filter
