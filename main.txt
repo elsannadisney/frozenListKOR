@@ -1,6 +1,6 @@
 ! Title: frozenListKOR
-! Description: 애드가드/유니콘프로 전용 frozenListKOR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트를 차단합니다. 
-! Version: 2023.0120.8
+! Description: 애드가드/유니콘프로 전용 frozenListKOR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트를 차단합니다. (네이버 뉴스, 디시 실베갤, 야갤, 주식갤, 여초 커뮤니티, 클리앙 등을 필터링함.)
+! Version: 2023.0120.9
 ! Homepage: https://github.com/elsannadisney/frozenListKOR
 ! Support: https://github.com/elsannadisney/frozenListKOR/issues
 
