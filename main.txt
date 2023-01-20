@@ -1,6 +1,6 @@
 ! Title: frozenListKR
 ! Description: 애드가드/유니콘프로 전용 frozenListKR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트를 차단합니다. 
-! Version: 2023.0120.4
+! Version: 2023.0120.5
 ! Expires: 1 day
 ! Homepage: https://github.com/elsannadisney/frozenListKR
 ! Support: https://github.com/elsannadisney/frozenListKR/issues
