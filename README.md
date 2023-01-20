@@ -4,7 +4,7 @@ frozenListKR 필터는 <a href='https://adguard.com'>AdGuard</a>, <a href='https
 <hr/>
 frozenListKR 필터는 단순 광고차단을 넘어서 악성 사이트 페이지자체를 차단하는 것이 핵심 목표입니다.<br/>
 해당 필터는 대한민국 웹 사이트를 주로 포커싱합니다. <br/>모바일 웹 환경에서 해당 필터를 사용하는걸 추천합니다<br/>
-<b>만약, PC 환경에서 사용할 경우, <a href='https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en'>uBlock Origin</a> 사용을 강력하게 추천합니다.(<a href='https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en'>Chrome</a>/<a href='https://addons.mozilla.org/ko/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search'>Firefox</a>) <br /></b>
+<b>만약, PC 환경에서 사용할 경우, <i>uBlock Origin</i> 사용을 강력하게 추천합니다.(<a href='https://chrome.google.com/webstore/detail/ublock-origin/cjpalhdlnbpafiamejdnhcphjbkeiagm?hl=en'>Chrome</a>/<a href='https://addons.mozilla.org/ko/firefox/addon/ublock-origin/?utm_source=addons.mozilla.org&utm_medium=referral&utm_content=search'>Firefox</a>) <br /></b>
 <br />
 
 # 제작 동기 및 목적
