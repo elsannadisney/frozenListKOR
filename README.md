@@ -23,12 +23,12 @@ frozenListKR 필터는 단순 광고차단을 넘어서 악성 사이트 페이�
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
 ```
-<br/>
+
 **frozenListKR** (유니콘프로):
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
 ```
-<br/>
+
 **frozenListKR** (uBlock Origin):
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
