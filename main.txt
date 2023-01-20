@@ -8,6 +8,7 @@
 ! URL filters
 ! ||instagram.com
 ||news.naver.com/
+||gall.dcinside.com/board/lists?id=dcbest
 ||gall.dcinside.com/board/lists/?id=dcbest
 ||gall.dcinside.com/board/lists/?id=neostock
 ||gall.dcinside.com/mgallery/board/lists/?id=foreversolo
