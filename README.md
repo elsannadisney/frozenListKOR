@@ -1,0 +1,2 @@
+# FrozenDNS
+Ad block DNS
