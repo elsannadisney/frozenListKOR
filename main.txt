@@ -21,6 +21,4 @@
 ||bbs.ruliweb.com/
 ||m.cafe.daum.net/subdued20club/_rec
 ||counter.adguard.com
-!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
-@@||www.google.com/maps/embed^$stealth
-!#endif
+
