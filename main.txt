@@ -1,8 +1,10 @@
 ! Title: frozenListKR
-! 디시인사이드 실시간베스트 갤러리, 네이버 뉴스 등 광고 수익을 얻어서는 안되는 악성 사이트입니다.
-! 필터에 등록된 사이트는 대한민국 국민들의 정신을 피폐하게 만드는 악성 종양 덩어리들입니다.
-! 인스타그램 또한 마찬가지로 악성 사이트이지만, 대한민국 국민들의 국민 SNS라 필터에서 제거했습니다. 
-! Homepage: 추가될예정임.
+! Description: 애드가드 전용 frozenListKR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트를 차단합니다. 
+! Version: 2023.0119.4
+! Expires: 1 day
+! Homepage: https://github.com/elsannadisney/frozenListKR
+! Support: https://github.com/elsannadisney/frozenListKR/issues
+
 ! URL filters
 ! ||instagram.com
 ||news.naver.com/
