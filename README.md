@@ -30,7 +30,7 @@ https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
 
 **frozenListKR** (uBlock Origin):
 ```
-https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/main.txt
+https://raw.githubusercontent.com/elsannadisney/frozenListKR/main/beta.txt
 ```
 <br/>
 
