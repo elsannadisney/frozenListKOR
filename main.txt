@@ -1,1 +1,26 @@
- 
+! Title: frozenListKR
+! 디시인사이드 실시간베스트 갤러리, 네이버 뉴스 등 광고 수익을 얻어서는 안되는 사이트를 차단합니다.
+! 필터에 등록된 사이트는 대한민국 국민들의 정신을 피폐하게 만드는 악성 종양 덩어리들입니다.
+! Homepage: 추가될예정임.
+! URL filters
+||news.naver.com/
+||gall.dcinside.com/board/lists/?id=dcbest
+||gall.dcinside.com/board/lists/?id=neostock
+||gall.dcinside.com/mgallery/board/lists/?id=foreversolo
+||gall.dcinside.com/mgallery/board/lists/?id=ehxoeh
+||gall.dcinside.com/mgallery/board/lists/?id=escapekorea
+||gall.dcinside.com/mgallery/board/lists/?id=birthrate
+||gall.dcinside.com/board/lists/?id=m_entertainer_new1
+||www.ilbe.com/
+||namu.wiki/
+||www.facebook.com/
+||www.tiktok.com/
+||everytime.kr/
+||www.clien.net/
+||theqoo.net/
+||bbs.ruliweb.com/
+||m.cafe.daum.net/subdued20club/_rec
+||counter.adguard.com
+!#if (adguard_ext_firefox || adguard_app_windows || adguard_app_mac || adguard_app_android || adguard_ext_chromium || adguard_ext_edge)
+@@||www.google.com/maps/embed^$stealth
+!#endif
