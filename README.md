@@ -43,15 +43,3 @@ https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/main.txt
 ```
 <br/>
 
-# 사용방법 (사진)
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/1.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/2.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/3.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/4.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/5.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/6.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/7.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/8.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/9.PNG?raw=true' style="width:200px; height:350px;"><br/><br/>
-<img src='https://github.com/elsannadisney/frozenListKOR/blob/main/library/10.PNG?raw=true' style="width:200px; height:350px;"><br/><br/><br/>
-
