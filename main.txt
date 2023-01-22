@@ -50,7 +50,7 @@
 ||https://gall.dcinside.com/board/lists?id=stream_new1
 ||m.dcinside.com/board/stream_new1
 
-! 차단할 광고 ======
+! 차단할 악성 광고 ( 광고라고 전부 나쁜 광고는 아님 ) ======
 ||doubleclick.net^
 ||amazon-adsystem.com^
 ||ad.daum.net^
