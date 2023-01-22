@@ -61,6 +61,14 @@
 ||ad.cgv.co.kr^
 ||veta.naver.com^
 ||adimg.cgv.co.kr^
+||dable.io^
+||ad-mapps.com^
+||netinsight.co.kr^
+||ad.adnmore.co.kr^
+||addc.dcinside.com^
+||googletagservices.com^
+||ad.about.co.kr^
+
 
 ||counter.adguard.com
 
