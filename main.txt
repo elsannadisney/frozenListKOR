@@ -68,7 +68,7 @@
 ||addc.dcinside.com^
 ||googletagservices.com^
 ||ad.about.co.kr^
-
+||googleadservices.com^
 
 ||counter.adguard.com
 
