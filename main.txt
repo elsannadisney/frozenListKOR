@@ -4,7 +4,7 @@
 ! Homepage: https://github.com/elsannadisney/frozenListKOR
 ! Support: https://github.com/elsannadisney/frozenListKOR/issues
 
-! 차단할 웹 사이트 ======
+! 차단할 웹 사이트 ====== 
 ! URL filters
 ! ||instagram.com
 ||news.naver.com/
