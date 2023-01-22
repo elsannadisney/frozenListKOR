@@ -68,7 +68,10 @@
 ||addc.dcinside.com^
 ||googletagservices.com^
 ||ad.about.co.kr^
-
+||api.segment.io^
+||api.segment.io^
+||launches.appsflyer.com^
+||appsflyer.com^
 
 ||counter.adguard.com
 
