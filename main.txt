@@ -7,7 +7,6 @@
 ! 차단할 웹 사이트 ====== 
 ! Junk site filter ======
 ! URL filters
-! ||instagram.com
 ||news.naver.com/
 ||gall.dcinside.com/board/lists?id=dcbest
 ||gall.dcinside.com/board/lists/?id=dcbest
