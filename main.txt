@@ -49,6 +49,11 @@
 ||m.cafe.naver.com/ca-fe/web/cafes/12789486/articles/7762166?fromList=true&menuId=19#
 ||https://gall.dcinside.com/board/lists?id=stream_new1
 ||m.dcinside.com/board/stream_new1
+||https://www.bobaedream.co.kr/
+||https://www.inven.co.kr/
+||https://pann.nate.com/
+||https://www.ppomppu.co.kr/
+||https://mlbpark.donga.com/mp/
 
 ! 차단할 악성 광고 ======
 ! Junk ad filter ======
