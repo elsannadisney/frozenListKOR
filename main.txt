@@ -72,12 +72,7 @@
 ||googleadservices.com^
 ||ad.everytime.kr^
 ||cf-eba.everytime.kr^
-||www.google-analytics.com
-||pagead2.googlesyndication.com
-||wcs.naver.com
 ||ad.about.co.kr^
-||external-api.impression-neo.naver.com
-||display.ad.daum.net
 ||google-analytics.com^
 ||adx-exchange.toast.com^
 
