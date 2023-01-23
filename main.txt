@@ -1,6 +1,6 @@
 ! Title: frozenListKOR
 ! Description: 애드가드/유니콘프로 전용 frozenListKOR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트(틱톡, 나무위키, 네이버/다음 뉴스 등)를 차단하고, 추가로 엄선된 악성 광고만을 차단합니다. 
-! Version: 23.0123.2
+! Version: 23.0123.3
 ! Homepage: https://github.com/elsannadisney/frozenListKOR
 ! Support: https://github.com/elsannadisney/frozenListKOR/issues
 
@@ -72,6 +72,13 @@
 ||googleadservices.com^
 ||ad.everytime.kr^
 ||cf-eba.everytime.kr^
+||www.google-analytics.com
+||pagead2.googlesyndication.com
+||wcs.naver.com
+
+
+
+
 
 
 ||counter.adguard.com
