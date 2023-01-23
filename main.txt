@@ -88,5 +88,18 @@
 ||inapps.appsflyer.com^
 ||appsflyer.com^
 
+! 불 필요한 웹 사이트의 요소들
+||dcinside.com##.content_box.r_timebest
+||gall.dcinside.com##.r_recommend.content_box
+||gall.dcinside.com##.r_sec_recommend.content_box
+||gall.dcinside.com##.dc_all
+||gall.dcinside.com##.gall_exposure
+||gall.dcinside.com##.r_wiki.content_box
+||gall.dcinside.com##div#zzbang_div
+||gall.dcinside.com##.r_news.content_box
+||gall.dcinside.com##.r_hit.content_box
+||namu.wiki#@?#article div:has(a[href*="/w/%EB%B6%84%EB%A5%98:"]) ~ div:has(div.wiki-paragraph) ~ div:has(img[src*="w.namu.la"])
+||namu.wiki###zg0phRRsx > article:first-child > div:nth-child(4) > div > div > div > div > div > div:nth-child(4) > div > div > div > div > div > div > div:last-child > div > div > div > div > div > div > div > div._8o4IFT5P
+
 ||counter.adguard.com
 
