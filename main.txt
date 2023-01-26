@@ -1,6 +1,6 @@
 ! Title: frozenListKOR
 ! Description: 애드가드/유니콘프로 전용 frozenListKOR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트(틱톡, 나무위키, 네이버/다음 뉴스 등)를 차단하고, 추가로 엄선된 악성 광고만을 차단합니다. 
-! Version: 23.0126.3
+! Version: 23.0126.4
 ! Homepage: https://github.com/elsannadisney/frozenListKOR
 ! Support: https://github.com/elsannadisney/frozenListKOR/issues
 
@@ -101,27 +101,27 @@
 ||megadata.co.kr^
 ||criteo.net^
 ||deepdive.zum.com^
-@@||t1.daumcdn.net/tiara/js/v1/tiara.min.js$domain=kakaocorp.com
-||analytics-script.ad-shield.io^$all
-||cdn.jsdelivr.net/npm/@adshield^$all
-||script.ifdo.co.kr^$all
-||wlog.ifdo.co.kr^$all
-||cdn.cresendo.net^$all
-||click.linkprice.com^$all
-||clickstream.cresendo.net^$all
-||fin.rainbownine.net^$all
-||loginside.co.kr^$all
+||t1.daumcdn.net/tiara/js/v1/tiara.min.js$domain=kakaocorp.com
+||analytics-script.ad-shield.io^
+||cdn.jsdelivr.net/npm/@adshield^
+||script.ifdo.co.kr^
+||wlog.ifdo.co.kr^
+||cdn.cresendo.net^
+||click.linkprice.com^
+||clickstream.cresendo.net^
+||fin.rainbownine.net^
+||loginside.co.kr^
 ||api.channel.io/front/v4/elastic/plugins/28/events
 ||api.channel.io/front/v5/channels/1/events
 ||jdsports.co.kr/analysisTag.js
 ||jdsports.co.kr/collect.php
 ||script.gmarket.co.kr/js/itemdweb/ItemBase.js
 ||discord.com/api/v8/science
-||cr.acecounter.com^$all
-||wb-tt.com^$all
-||wn-xg.com^$all
-||fair-1285.com^$all
-||drpharm.shop^$all
+||cr.acecounter.com^
+||wb-tt.com^
+||wn-xg.com^
+||fair-1285.com^
+||drpharm.shop^
 ||backend.dna-delivery.com$all,domain=twitch.tv
 ||static.twitchcdn.net/assets/streamroot.streamrooter-*.js$script,domain=twitch.tv
 ||ovz1.j19544519.pr46m.vps.myjino.ru^$all
@@ -131,37 +131,23 @@
 ||t1.daumcdn.net/tistory_admin/assets/blog/tistory-*/blogs/script/tiara/tiara.min.js
 ||ssl.pstatic.net/tveta/libs/glad/prod/*/gfp-sentry-bundle-*.js
 ||las.danawa.com^$all
-||tracking.adweb.co.kr^$all
+||tracking.adweb.co.kr^
 ||*.gabia.io/gtag*
 ||collector-statistics.nhn-commerce.com
-||data-logdelivery.wconcept.co.kr^$all
-||wconcept.co.kr/assets/Js/_WCKTrackingScript/*.js^$all
+||data-logdelivery.wconcept.co.kr^
+||wconcept.co.kr/assets/Js/_WCKTrackingScript/*.js^
 ||sdk.*.braze.com^$all
-||onsite-api.datarize.ai^$all
-||sizeloot-offers.best^$all
-||www.mediacategory.com^$all
-||googleads.g.doubleclick.net^$all
-||gst.groobee.io^$all
-||janim.si^$all
-||ad.danawa.com^$all
-danawa.com##a[href*="white.contentsfeed.com/RealMedia/ads"]
-danawa.com##.ad-powerlink
-danawa.com##.ad_wide_slide
-||internal.pay.naver.com/ad/seg
-||widgets.cre.ma^$all
-! annoyance: coupang.com
-coupang.com###coupang-banner
-! annoyance: danawa.com
-danawa.com###t1Banner
-danawa.com##.main-middlebnr
-! annoyance: koreaminecraft.net
-koreaminecraft.net##.fancybox-wrap
-! annoyance: musinsa.com
-musinsa.com##.extend_banner
-! annoyance: ohmynews.com
-ohmynews.com##.footer_club
-ohmynews.com##.support-omn
-ohmynews.com##img[src*="/images/ohmynews/main/main_club_btn.gif"]
+||onsite-api.datarize.ai^
+||sizeloot-offers.best^
+||www.mediacategory.com^
+||googleads.g.doubleclick.net^
+||gst.groobee.io^
+||janim.si^
+||ad.danawa.com^
+||contentsfeed.com^
+||adcheck.about.co.kr^
+||bizspring.net^
+||lijit.com^
 
 ||counter.adguard.com
 
