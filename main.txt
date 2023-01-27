@@ -54,6 +54,8 @@
 ||https://pann.nate.com/
 ||https://www.ppomppu.co.kr/
 ||https://mlbpark.donga.com/mp/
+||m.blog.naver.com^
+||blog.naver.com^
 
 ! 차단할 악성 광고 ======
 ! Junk ad filter ======
@@ -166,8 +168,6 @@
 ||ts.naver.com^
 ||api.nrc.naver.co
 ||l.m.naver.com^
-||m.blog.naver.com^
-||blog.naver.com^
 ||adop.cc^
 ||vrixon.com^
 ||deepdive.zum.com^
