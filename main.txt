@@ -219,6 +219,7 @@
 ||bidr.io^
 ||clarity.ms^
 ||googleoptimize.com^
+||hotjar.com^
 
 ||counter.adguard.com
 
