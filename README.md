@@ -25,7 +25,7 @@ frozenListKOR 필터는 단순 광고차단을 넘어서 악성 사이트 페이
 누누티비<br/>
 
 # 스크린샷
-<img src ="https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/Photo/test.PNG"><br/>
+<img src ="https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/Photo/test.PNG" width=250 height=480><br/>
 
 # 사용방법
 <b>해당 링크를 복사해서 <br/>광고차단 프로그램에 필터를 추가하세요.</b><br/>
