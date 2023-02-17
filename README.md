@@ -27,17 +27,7 @@ frozenListKOR 필터는 단순 광고차단을 넘어서 악성 사이트 페이
 # 사용방법
 <b>해당 링크를 복사해서 <br/>광고차단 프로그램에 필터를 추가하세요.</b><br/>
 <br/>
-**frozenListKOR** (AdGuard):
-```
-https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/main.txt
-```
-
-**frozenListKOR** (유니콘프로):
-```
-https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/main.txt
-```
-
-**frozenListKOR** (uBlock Origin):
+**frozenListKOR** (AdGuard/유니콘프로/uBlock Origin):
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/main.txt
 ```
