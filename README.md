@@ -24,6 +24,9 @@ frozenListKOR 필터는 단순 광고차단을 넘어서 악성 사이트 페이
 더쿠/여성시대/해연갤/에브리타임/트위터<br/>
 누누티비<br/>
 
+# 스크린샷
+<img src ="https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/Photo/test.PNG"><br/>
+
 # 사용방법
 <b>해당 링크를 복사해서 <br/>광고차단 프로그램에 필터를 추가하세요.</b><br/>
 <br/>
