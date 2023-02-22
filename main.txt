@@ -1,6 +1,6 @@
 ! Title: frozenListKOR
 ! Description: 애드가드/유니콘프로 전용 frozenListKOR은 대한민국 국민들의 정신을 피폐하게 만드는 악성 사이트(틱톡, 나무위키, 네이버/다음 뉴스 등)를 차단하고, 추가로 엄선된 악성 광고만을 차단합니다. 
-! Version: 23.0216.2
+! Version: 23.0222.1
 ! Homepage: https://github.com/elsannadisney/frozenListKOR
 ! Support: https://github.com/elsannadisney/frozenListKOR/issues
 
@@ -32,7 +32,43 @@
 ||m.dcinside.com/board/escapekorea
 ||m.dcinside.com/board/neostock
 ||news.daum.net
+
+! 누누티비 역대 공식 주소 ======
+||noonoo1.tv
+||noonoo2.tv
+||noonoo3.tv
+||noonoo4.tv
+||noonoo5.tv
+||noonoo6.tv
+||noonoo7.tv
+||noonoo8.tv
+||noonoo9.tv
+||noonoo10.tv
+||noonoo11.tv
+||noonoo12.tv
+||noonoo13.tv
+||noonoo14.tv
+||noonoo15.tv
+||noonoo16.tv
+||noonoo17.tv
+||noonoo18.tv
+||noonoo19.tv
+||noonoo20.tv
+||noonoo21.tv
+||noonoo22.tv
+||noonoo23.tv
+||noonoo24.tv
 ||noonoo25.tv
+||noonoo26.tv
+||noonoo27.tv
+||noonoo28.tv
+
+! 누누티비 공식 텔레그램 주소 ======
+||zzzz.gg/t
+
+! 누누티비 자동 리다이렉트 주소 ======
+||zzzz.gg/g 
+
 ||m.womad.life
 ||womad.life/
 ||www.fmkorea.com
