@@ -1,6 +1,6 @@
 # frozenListKOR
 <br />
-frozenListKOR 필터는 <a href='https://adguard.com'>AdGuard</a>, <a href='https://getunicorn.app/en'>유니콘프로</a>와 함께 사용되는 대한민국 웹 사이트용 필터입니다.<br/>
+frozenListKOR 필터는 <a href='https://adguard.com'>AdGuard</a>, <style><a href='https://getunicorn.app/en'>유니콘프로</a></style>와 함께 사용되는 대한민국 웹 사이트용 필터입니다.<br/>
 <hr/>
 frozenListKOR 필터는 단순 광고차단을 넘어서 악성 사이트 페이지자체를 차단하는 것이 핵심 목표입니다.<br/>
 해당 필터는 대한민국 웹 사이트를 주로 포커싱합니다. <br/>모바일 웹 환경에서 해당 필터를 사용하는걸 추천합니다.<br/>
@@ -31,7 +31,7 @@ frozenListKOR 필터는 단순 광고차단을 넘어서 악성 사이트 페이
 # 사용방법
 <b>해당 링크를 복사해서 <br/>광고차단 프로그램에 필터를 추가하세요.</b><br/>
 <br/>
-**frozenListKOR** (AdGuard/유니콘프로):
+**frozenListKOR** (AdGuard):
 ```
 https://raw.githubusercontent.com/elsannadisney/frozenListKOR/main/main.txt
 ```
